@@ -1,11 +1,6 @@
 
 
-# ezarcher-live-build-respin-cosmic
-
-
-
-
-## Home
+# Home
 
 > [ezarcher-live-build-respin-cosmic](https://github.com/samwhelp/ezarcher-live-build-respin-cosmic)
 

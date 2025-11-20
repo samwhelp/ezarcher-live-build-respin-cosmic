@@ -368,6 +368,9 @@ simple-scan
 system-config-printer
 
 # Cosmic
+cosmic
+
+# Xfce
 abiword
 accountsservice
 aisleriot
@@ -395,7 +398,6 @@ xfburn
 xfce4
 xfce4-goodies
 xpdf
-cosmic
 
 # Display Manager
 light-locker
